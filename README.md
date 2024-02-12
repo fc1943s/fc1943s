@@ -18,7 +18,7 @@ On-chain dice rolling smart contract using the NEAR Protocol (Rust WebAssembly):
 - <https://i574n.github.io/vault/data/magic/the-book-of-remembering_pt-br.md.html>
 - <https://i574n.github.io/vault/data/spirituality/gvk_pt-br.md.html>
 - <https://i574n.github.io/vault/data/spirituality/ressurection_pt-br.md.html>
-- <https://i574n.github.io/vault/data/spirituality\the-book-of-innocence_pt-br.md.html>
+- <https://i574n.github.io/vault/data/spirituality/the-book-of-innocence_pt-br.md.html>
 
 ## Social
 
