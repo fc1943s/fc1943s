@@ -1,8 +1,8 @@
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fc1943s&theme=github_dark)
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fc1943s&theme=github_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fc1943s&theme=github_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fc1943s&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fc1943s&theme=github_dark)
+![Commits Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fc1943s&theme=github_dark&utcOffset=-3)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fc1943s&theme=github_dark)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fc1943s&theme=github_dark)
 
 ## Recent programming works
 
@@ -15,7 +15,7 @@ On-chain dice rolling smart contract using the NEAR Protocol (Rust WebAssembly):
 - <https://i574n.github.io/dice/ui/dist>
 - <https://github.com/i574n/dice/blob/main/ui/src/dice_ui.spi>
 - <https://github.com/i574n/dice/blob/main/contract/src/lib.rs>
-- <https://i574n.github.io/dice/dice.dib.html>
+- <https://i574n.github.io/dice/lib/dice.dib.html>
 
 ## Recent translations to pt-BR
 
