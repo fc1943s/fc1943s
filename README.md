@@ -1,3 +1,9 @@
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fc1943s&theme=github_dark)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fc1943s&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fc1943s&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fc1943s&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fc1943s&theme=github_dark)
+
 ## Recent programming works
 
 Implementation of Haskell code samples from the "Learn Physics with Functional Programming" book using the Spiral programming language:
