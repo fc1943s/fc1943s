@@ -38,13 +38,15 @@ Forum Post (pt-BR): Pitch: A linguagem de programação Spiral
 - <https://i574n.github.io/vault/data/spirituality/ressurection_pt-br.md.html>
 - <https://i574n.github.io/vault/data/spirituality/the-book-of-innocence_pt-br.md.html>
 
-## Social
+## Connect
 
-Discord = fc1943s  
-Email = <fc1943s@gmail.com>  
-Instagram = fc1943s  
-Linkedin = in/fc1943s  
-X = fc1943s
+<div><a href="#"><img alt="Email" height="24px" width="24px" align="top" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg" /></a> fc1943s@gmail.com</div>
+<div><a href="#"><img alt="Discord" height="24px" width="24px" align="top" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Discord.svg" /></a> fc1943s</div>
+<div><a href="#"><img alt="Linkedin" height="24px" width="24px" align="top" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg" /></a> <a href="https://linkedin.com/in/fc1943s" target="_blank">in/fc1943s</a></div>
+<div><a href="#"><img alt="X" height="24px" width="24px" align="top" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Twitter.svg" /></a> <a href="https://twitter.com/fc1943s" target="_blank">fc1943s</a></div>
+<div><a href="#"><img alt="Instagram" height="24px" width="24px" align="top" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg" /></a> <a href="https://instagram/fc1943s" target="_blank">fc1943s</a></div>
+
+<br />
 
 BTC address: bc1qml7erhygenxxyf3lnaxzle0c85m7fanf3hq60p  
 ETH/BNB/USDT address: 0x33bb7967cF60Ae8119447dBA8011d684473FA76b  
