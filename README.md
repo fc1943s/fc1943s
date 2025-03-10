@@ -56,7 +56,8 @@ Forum Post (pt-BR): Pitch: A linguagem de programação Spiral
 
 <br />
 
-BTC address: bc1qml7erhygenxxyf3lnaxzle0c85m7fanf3hq60p  
-ETC address: 0x4f68400eB7F291A5ac0554A3947Ccf39A88Bcde7  
 NEAR address: 93dec09ba1ed4910665a88bd667b84c4039b6883c137a28ef8b92547a173f651  
+Pix: d4bdbb0b-24f7-4f48-a953-8e83eea7df29  
 ETH/BNB/USDT address: 0x33bb7967cF60Ae8119447dBA8011d684473FA76b  
+ETC address: 0x4f68400eB7F291A5ac0554A3947Ccf39A88Bcde7  
+BTC address: bc1qml7erhygenxxyf3lnaxzle0c85m7fanf3hq60p  
