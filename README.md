@@ -29,23 +29,23 @@ Forum Post (pt-BR): Pitch: A linguagem de programação Spiral
 
 ## Recent translations to pt-BR
 
-<https://i574n.github.io/vault/data/community/netiquette_pt-br.md.html>  
-<https://i574n.github.io/vault/data/community/netiquette_pt-br.hangul.md.html>
+<https://fc1943s.github.io/vault/data/community/netiquette_pt-br.md.html>  
+<https://fc1943s.github.io/vault/data/community/netiquette_pt-br.hangul.md.html>
 
-<https://i574n.github.io/vault/data/economy/만리마속도_pt-br.md.html>  
-<https://i574n.github.io/vault/data/economy/만리마속도_pt-br.hangul.md.html>
+<https://fc1943s.github.io/vault/data/economy/만리마속도_pt-br.md.html>  
+<https://fc1943s.github.io/vault/data/economy/만리마속도_pt-br.hangul.md.html>
 
-<https://i574n.github.io/vault/data/magic/the-book-of-remembering_pt-br.md.html>  
-<https://i574n.github.io/vault/data/magic/the-book-of-remembering_pt-br.hangul.md.html>
+<https://fc1943s.github.io/vault/data/magic/the-book-of-remembering_pt-br.md.html>  
+<https://fc1943s.github.io/vault/data/magic/the-book-of-remembering_pt-br.hangul.md.html>
 
-<https://i574n.github.io/vault/data/spirituality/gvk_pt-br.md.html>  
-<https://i574n.github.io/vault/data/spirituality/gvk_pt-br.hangul.md.html>
+<https://fc1943s.github.io/vault/data/spirituality/gvk_pt-br.md.html>  
+<https://fc1943s.github.io/vault/data/spirituality/gvk_pt-br.hangul.md.html>
 
-<https://i574n.github.io/vault/data/spirituality/ressurection_pt-br.md.html>  
-<https://i574n.github.io/vault/data/spirituality/ressurection_pt-br.hangul.md.html>
+<https://fc1943s.github.io/vault/data/spirituality/ressurection_pt-br.md.html>  
+<https://fc1943s.github.io/vault/data/spirituality/ressurection_pt-br.hangul.md.html>
 
-<https://i574n.github.io/vault/data/spirituality/the-book-of-innocence_pt-br.md.html>  
-<https://i574n.github.io/vault/data/spirituality/the-book-of-innocence_pt-br.hangul.md.html>
+<https://fc1943s.github.io/vault/data/spirituality/the-book-of-innocence_pt-br.md.html>  
+<https://fc1943s.github.io/vault/data/spirituality/the-book-of-innocence_pt-br.hangul.md.html>
 
 ## Connect
 
