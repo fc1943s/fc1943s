@@ -11,7 +11,7 @@ Implementation of Haskell code samples from the "Learn Physics with Functional P
 
 <https://i574n.github.io/dice/ui/dist>  
 <https://github.com/i574n/dice/blob/main/ui/src/dice_ui.spi>  
-<https://github.com/i574n/dice/blob/main/contract/src/lib.rs>  
+<https://github.com/i574n/dice/blob/main/contract/dice_contract.rs>  
 <https://i574n.github.io/dice/lib/dice.dib.html>  
 On-chain dice rolling smart contract using the NEAR Protocol (Rust WebAssembly)
 
